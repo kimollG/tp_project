@@ -1,0 +1,7 @@
+[Database]
+username = theater
+database = theater
+password = theater
+
+[Security]
+secret_key = 89bb875ee9ea68960192f3fd6e0a2dab9e2a9ca9af79852ea54926eb025739a9
